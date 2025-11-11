@@ -1,9 +1,9 @@
-# 🌌 AstralNoot
+
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=lily&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35)
 ---
 
-## ⚡ Live Stats
+## Stats
 
 <div align="center">
 
@@ -15,7 +15,7 @@
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
 <div align="center">
 
@@ -25,7 +25,7 @@
 
 ---
 
-## 📊 Activity Heatmap
+## Activity
 <div align="center">
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=clilyss&theme=react-dark&bg_color=00000000&color=8e2de2&line=4a00e0&point=ffffff&hide_border=true)
